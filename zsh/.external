@@ -1,0 +1,3 @@
+# zoxide config
+eval "$(zoxide init --cmd cd zsh)"
+

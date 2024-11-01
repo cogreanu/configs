@@ -1,0 +1,3 @@
+alias cpath="echo '$PATH' | tr ':' '\n' | fzf"
+alias l="ls"
+alias ll="ls -la"
